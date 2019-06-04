@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "662093471276",
+    "firebase_url": "https://socialloginnew-e121c.firebaseio.com",
+    "project_id": "socialloginnew-e121c",
+    "storage_bucket": "socialloginnew-e121c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:662093471276:android:680895a5a5d36244",
+        "android_client_info": {
+          "package_name": "com.thebijjubro.socialloginnew"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "662093471276-v4rjn7rkg92u7orhe9fid260amg01b2p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtf6OVQIvXSctLc84RHLdBidXbDAM9-Ag"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "662093471276-v4rjn7rkg92u7orhe9fid260amg01b2p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
