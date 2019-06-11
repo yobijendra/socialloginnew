@@ -1,34 +1,34 @@
 {
   "project_info": {
-    "project_number": "662093471276",
-    "firebase_url": "https://socialloginnew-e121c.firebaseio.com",
-    "project_id": "socialloginnew-e121c",
-    "storage_bucket": "socialloginnew-e121c.appspot.com"
+    "project_number": "885917339455",
+    "firebase_url": "https://sociallogin11june.firebaseio.com",
+    "project_id": "sociallogin11june",
+    "storage_bucket": "sociallogin11june.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:662093471276:android:680895a5a5d36244",
+        "mobilesdk_app_id": "1:885917339455:android:680895a5a5d36244",
         "android_client_info": {
           "package_name": "com.thebijjubro.socialloginnew"
         }
       },
       "oauth_client": [
         {
-          "client_id": "662093471276-v4rjn7rkg92u7orhe9fid260amg01b2p.apps.googleusercontent.com",
+          "client_id": "885917339455-8830f8cj4koa2lgv00ig90c5hpq5mggo.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyCtf6OVQIvXSctLc84RHLdBidXbDAM9-Ag"
+          "current_key": "AIzaSyC3GrCz843194ac7uygAb6IioCLKmg2uO8"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "662093471276-v4rjn7rkg92u7orhe9fid260amg01b2p.apps.googleusercontent.com",
+              "client_id": "885917339455-8830f8cj4koa2lgv00ig90c5hpq5mggo.apps.googleusercontent.com",
               "client_type": 3
             }
           ]

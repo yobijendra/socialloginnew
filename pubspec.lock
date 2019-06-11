@@ -37,7 +37,7 @@ packages:
     source: hosted
     version: "0.1.2"
   firebase_auth:
-    dependency: "direct dev"
+    dependency: "direct main"
     description:
       name: firebase_auth
       url: "https://pub.dartlang.org"
@@ -56,12 +56,19 @@ packages:
     source: sdk
     version: "0.0.0"
   flutter_auth_buttons:
-    dependency: "direct dev"
+    dependency: "direct main"
     description:
       name: flutter_auth_buttons
       url: "https://pub.dartlang.org"
     source: hosted
     version: "0.3.1"
+  flutter_facebook_login:
+    dependency: "direct main"
+    description:
+      name: flutter_facebook_login
+      url: "https://pub.dartlang.org"
+    source: hosted
+    version: "1.2.0"
   flutter_test:
     dependency: "direct dev"
     description: flutter
