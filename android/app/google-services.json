@@ -15,6 +15,14 @@
       },
       "oauth_client": [
         {
+          "client_id": "885917339455-fh2u5hik47ona4060mdkg4pkpr7hj4rf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.thebijjubro.socialloginnew",
+            "certificate_hash": "0b67fd7d80e3f3c941408b1f9832a549fe53305a"
+          }
+        },
+        {
           "client_id": "885917339455-8830f8cj4koa2lgv00ig90c5hpq5mggo.apps.googleusercontent.com",
           "client_type": 3
         }
